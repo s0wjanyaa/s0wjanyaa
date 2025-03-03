@@ -1,7 +1,22 @@
-## Hi there 👋 I'm Sowjanya !
+<img alt="Profile Views Counter"  src="https://komarev.com/ghpvc/?username=s0wjanya" style="border-radius: 0px;" />
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<h1 align="center">Hi there !! 👋   I'm Sowjanya <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>  </h1>
+<p align="center">
+  <a href="mailto:sowjanyamantri25@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</p>
+
+<h2>🔭 About Me</h2>
+<div style="text-align: center;">
+  <ul style="list-style-type: disc;">
+    <li>🔭 Aspiring backend/full-stack developer.</li>
+    <li>🪶 GSSOC'24 </li>
+    <li>👨‍💻 Undergraduate student in Department of CSE-(AI & ML) at VMTW.</li>
+    <li>📫 How to reach me: <b>sowjanyamantri25@gmail.com </b></li>
+  </ul>
+</div>
+
+<h2>🪶 GSSOC(24) Badges </h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -10,7 +25,34 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
-</details>
+  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s0wjanyaa&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## ⚡️ Technologies & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,react,nodejs,expressjs,html,css,git,github,mysql,mongodb,pandas,numPy" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="YOUR_ANIMATED_SKILLS_GIF.gif" alt="Animated Skills" width="60%" />
+</p>
+
+## 📬 Let's Connect!
+
+<p >
+  Feel free to reach out and connect!<br></br>
+  <a href="mailto:sowjanyamantri25@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</p>
+
+<p align="center">
+  <img src="YOUR_FOOTER_IMAGE_URL.gif" alt="Footer Image" width="80%" />
+</p>
 
 <!--
 **s0wjanyaa/s0wjanyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
