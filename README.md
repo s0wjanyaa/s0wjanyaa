@@ -1,6 +1,6 @@
 <img alt="Profile Views Counter"  src="https://komarev.com/ghpvc/?username=s0wjanya" style="border-radius: 0px;" />
 
-<h1 align="center">Hi there !! 👋   I'm Sowjanya <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>  </h1>
+<h2 align="center">Hi there !! 👋   I'm Sowjanya <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>  </h2>
 <p align="center">
   <a href="mailto:sowjanyamantri25@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
@@ -39,14 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s0wjanyaa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-## 📬 Let's Connect!
-<p>
-  Feel free to reach out and connect!<br></br>
-  <a href="mailto:sowjanyamantri25@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</p>
-
 <!--
 **s0wjanyaa/s0wjanyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
