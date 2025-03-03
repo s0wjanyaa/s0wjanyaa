@@ -3,7 +3,7 @@
 <h1 align="center">Hi there !! 👋   I'm Sowjanya <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>  </h1>
 <p align="center">
   <a href="mailto:sowjanyamantri25@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="www.linkedin.com/in/sowjanya-s2508/" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h2>🔭 About Me</h2>
