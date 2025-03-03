@@ -16,42 +16,35 @@
   </ul>
 </div>
 
-<h2>🪶 GSSOC(24) Badges </h2>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
-</div>
-  
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s0wjanyaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## ⚡️ Technologies & Skills
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,cpp,react,nodejs,expressjs,html,css,git,github,mysql,mongodb,pandas,numPy" alt="Skills" />
 </p>
 
+<details>
+  <summary><span style="text-decoration: underline;">🪶 GSSOC(24) Badges</span></summary>
+  <div style='display:flex; align-items:center; flex-wrap: wrap; gap: 10px; justify-content: center;'>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Badge 1"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Badge 2"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Badge 3"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Badge 4"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Badge 5"/>
+    </a>
+  </div>
+</details>
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="YOUR_ANIMATED_SKILLS_GIF.gif" alt="Animated Skills" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s0wjanyaa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 📬 Let's Connect!
-
-<p >
+<p>
   Feel free to reach out and connect!<br></br>
   <a href="mailto:sowjanyamantri25@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank"><img alt="LinkedIn" height ="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</p>
-
-<p align="center">
-  <img src="YOUR_FOOTER_IMAGE_URL.gif" alt="Footer Image" width="80%" />
 </p>
 
 <!--
