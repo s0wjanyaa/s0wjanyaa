@@ -9,7 +9,7 @@
 <h2>🔭 About Me</h2>
 <div style="text-align: center;">
   <ul style="list-style-type: disc;">
-    <li>🔭 Aspiring backend/full-stack developer.</li>
+    <li>🔭 Aspiring Software developer.</li>
     <li>🪶 GSSOC'24 </li>
     <li>👨‍💻 Undergraduate student in Department of CSE-(AI & ML) at VMTW.</li>
     <li>📫 How to reach me: <b>sowjanyamantri25@gmail.com </b></li>
