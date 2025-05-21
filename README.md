@@ -36,9 +36,9 @@
 </details>
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s0wjanyaa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s0wjanyaa&show_icons=true&theme=radical" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0wjanyaa&layout=compact&theme=radical" alt="Most Used Languages" height="200px" />
 </p>
 <!--
 **s0wjanyaa/s0wjanyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
